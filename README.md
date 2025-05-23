@@ -69,12 +69,3 @@ A sophisticated, responsive coffee shop website built with modern web technologi
 2. No build process required - static HTML/CSS/JS
 3. Open `project.html` in a modern web browser
 
-## 📦 File Structure
-├── project.html # Main HTML file
-├── project.css # Custom styles
-├── sec.css # Secondary styles
-├── all.css # Font Awesome styles
-├── bootstrap.min.css # Bootstrap core CSS
-├── bootstrap.bundle.min.js # Bootstrap core JS
-└── images/ # Image assets
-
